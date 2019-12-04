@@ -1,0 +1,12 @@
+name: ML1Diabetes
+title: ML1Diabetes
+username:
+account: ls-idt-dat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1181913
+bundleId: 2409080
+url: https://ls-idt-dat.shinyapps.io/ML1Diabetes/
+when: 1568308391.77203
+asMultiple: FALSE
+asStatic: FALSE
